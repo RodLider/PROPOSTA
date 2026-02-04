@@ -162,7 +162,7 @@
                 <div class="p-10 md:p-16 space-y-12">
                     <!-- Dados do Cliente -->
                     <section>
-                        <h3 class="text-xs font-black text-slate-400 uppercase tracking-widest border-b border-slate-100 pb-2 mb-6">Informações do Proponente</h3>
+                        <h3 class="text-xs font-black text-slate-400 uppercase tracking-widest border-b border-slate-100 pb-2 mb-6">Informações da Proposta</h3>
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                             <div>
                                 <label class="text-[10px] text-slate-400 font-bold uppercase block mb-1">Nome Completo</label>
@@ -191,7 +191,7 @@
 
                     <!-- Financeiro -->
                     <section>
-                        <h3 class="text-xs font-black text-slate-400 uppercase tracking-widest border-b border-slate-100 pb-2 mb-6">Detalhamento Financeiro</h3>
+                        <h3 class="text-xs font-black text-slate-400 uppercase tracking-widest border-b border-slate-100 pb-2 mb-6">Detalhe Financeiro</h3>
                         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
                             <div class="bg-blue-50 p-6 rounded-2xl border border-blue-100">
                                 <label class="text-[10px] text-blue-500 font-bold uppercase block mb-1">Valor Total</label>
